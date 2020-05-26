@@ -23,6 +23,10 @@
         en: /faq
         nl: /faq-nl
         de: /faq-de
+    - name: Accounts
+        en: Accounts
+        nl: Accounts
+        de: Accounts
     - name:
         en: Portfolios
         nl: Portfolios
@@ -40,22 +44,6 @@
         nl: /buildings-nl
         de: /buildings-de
     - name:
-        en: Building
-        nl: Gebouw
-        de: Gebäude
-      link:
-        en: /building
-        nl: /building-nl
-        de: /building-de
-    - name:
-        en: Building Process
-        nl: Bouwproces
-        de: Bauprozess
-      link:
-        en: /building-process
-        nl: /building-process-nl
-        de: /building-process-de
-    - name:
         en: Circularity
         nl: Circulariteit
         de: Zirkularität
@@ -64,14 +52,6 @@
         nl: /circularity-nl
         de: /circularity-de        
     - name:
-        en: Circularity - Detail level
-        nl: Circulariteit - Detail niveau
-        de: Zirkularität - Detailebene
-      link:
-        en: /circularity-learn-more
-        nl: /circularity-learn-more-nl
-        de: /circularity-learn-more-de
-    - name:
         en: Financial
         nl: Financieel
         de: Finanziell
@@ -79,30 +59,6 @@
         en: /financial
         nl: /financial-nl
         de: /financial-de
-    - name:
-        en: Financial - Material
-        nl: Financieel - Materiaal
-        de: Finanzen - Material
-      link:
-        en: /financial-material
-        nl: /financial-material-nl
-        de: /financial-material-de        
-    - name:
-        en: Financial - Building layers
-        nl: Financieel - Gebouwlagen
-        de: Finanzen - Gebäudeschichten
-      link:
-        en: /financial-buildinglayers
-        nl: /financial-buildinglayers-nl
-        de: /financial-buildinglayers-de
-    - name:
-        en: Dossier
-        nl: Dossier
-        de: Datei
-      link:
-        en: /dossier
-        nl: /dossier-nl
-        de: /dossier-de
     - name:
         en: Administration
         nl: Administratie

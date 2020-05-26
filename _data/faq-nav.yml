@@ -9,6 +9,47 @@
         nl: /faq-nl
         de: /faq-de
     - name:
+        en: Accounts
+        nl: Accounts
+        de: Accounts
+      link:
+        en: /accounts
+        nl: /accounts-nl
+        de: /accounts-de
+      items:
+          - name:
+              en: Dossier
+              nl: Dossier
+              de: Dossier
+            link:
+              en: /account-dossier
+              nl: /account-dossier-nl
+              de: /account-dossier-de   
+          - name:
+              en: Materials & products
+              nl: Materialen & Producten
+              de: 
+            link:
+              en: /account-materials-products
+              nl: /account-materials-products-nl
+              de: /account-materials-products-de          
+          - name:
+              en: Users
+              nl: Gebruikers
+              de: 
+            link:
+              en: /account-users
+              nl: /account-users-nl
+              de: /account-users-de 
+          - name:
+              en: Folder types
+              nl: Type folders
+              de: 
+            link:
+              en: /account-foldertypes
+              nl: /account-foldertypes-nl
+              de: /account-foldertypes-de 
+    - name:
         en: Portfolios
         nl: Portfolios
         de: Portfolios
